@@ -1,10 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Valérie.
 ================================================================================================================================
 
+
 Currently, I'm a student, honing my skills and expanding my knowledge in various programming languages and frameworks. Whether it's tackling algorithms, diving into web development, or delving into data structures, I'm always eager to learn and grow in this dynamic field.
 
+
+
 * 🌍  I'm based in the French Alpes.
-* [📧](mailto:rasolovalerie@gmail.com)
+
 
 ### Skills
 
